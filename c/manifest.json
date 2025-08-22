@@ -1,7 +1,7 @@
 {
   "name": "FCD Collector Help Desk",
   "short_name": "FCD-HelpDesk",
-  "start_url": "/helpdesk/Tickets/New?categoryId=627991",
+  "start_url": "helpdesk/Tickets/New?categoryId=627991",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#317EFB",
